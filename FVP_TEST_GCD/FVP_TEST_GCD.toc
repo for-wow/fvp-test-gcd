@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: FVP_TEST_GCD  |cFFFF0000! TEST ONLY !|r
+## Notes: |cFFFFD100by Wayborn|r|n|nAddon for check GCD time for Vanilla Plus server.|nNot for permanent use, just for testing.
+
+FVP_TEST_GCD.lua
